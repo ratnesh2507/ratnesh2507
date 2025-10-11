@@ -3,6 +3,7 @@
 
 ## 🚀 Recent Projects:
 - **[QR Code Generator](https://ratneshbvk-qr-code-generator.vercel.app/)** - A full-stack application for generating custom QR codes
+- **[The Curious Corner](https://the-curious-corner.vercel.app/)** - A blog website with admin dashboard for content management
 - **[Portfolio Website](https://ratneshbvk-portfolio.vercel.app/)** - My personal portfolio showcasing projects and skills
 
 ## 🌐 Socials:
