@@ -2,6 +2,7 @@
 🔭 I'm currently working on enhancing web applications with modern technologies.<br><br>👯 I'm looking to collaborate on exciting software development projects.<br><br>🤝 I'm looking for help with optimizing code performance.<br><br>🌱 I'm currently learning advanced React and Node.js techniques.<br><br>💬 Ask me about coding, gaming, or the latest tech trends!
 
 ## 🚀 Recent Projects:
+- **[RapidType Typing Challenge](https://rapid-type-challenge.vercel.app/)** - A multiplayer typing battle game to test speed and accuracy in real-time.
 - **[QR Code Generator](https://ratneshbvk-qr-code-generator.vercel.app/)** - A full-stack application for generating custom QR codes
 - **[The Curious Corner](https://the-curious-corner.vercel.app/)** - A blog website with admin dashboard for content management
 - **[Portfolio Website](https://ratneshbvk-portfolio.vercel.app/)** - My personal portfolio showcasing projects and skills
