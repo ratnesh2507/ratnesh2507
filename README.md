@@ -73,6 +73,8 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ratnesh2507&theme=dark&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8)
 
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ratnesh2507&theme=github_dark&exclude=)
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ratnesh2507&theme=react-dark&hide_border=true&bg_color=0d1117&color=00b4d8&line=00b4d8&point=ffffff)
 
 </div>
